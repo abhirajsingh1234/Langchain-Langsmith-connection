@@ -1,0 +1,5 @@
+LANGSMITH_API_KEY = 'lsv2_'
+OPENAI_API_KEY="sk-154YaS_uzgUqcA"
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_ENDPOINT = 'https://api.smith.langchain.com'
+LANGCHAIN_PROJECT = ['LEARNING']
